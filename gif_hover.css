@@ -5,10 +5,31 @@
 
 .static:hover {
     opacity:0;
+
 }
 
 .static:link {
     opacity:0;
 }
 
+.header {
+    padding: 60px;
+    text-align: center;
+    color:  #660066;
+    font-size: 30px;
+}
 
+.film_title {
+    padding: 10px;
+    text-align: center;
+    color:  #660066;
+    font-size: 30px;
+    font-family: courier;
+}
+
+
+.page_style {
+    background-color: #f0f0f5;
+    overflow: visible;
+     background-size: cover;
+}
